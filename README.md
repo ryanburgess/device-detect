@@ -1,6 +1,6 @@
 Device Detect
 =============
-JavaScript module to check if user agent to return what device a user is on.
+JavaScript module to check if user agent to return the device and browser.
 
 ## Install
 
@@ -24,6 +24,7 @@ var deviceDetect = deviceDetect();
 ```
  
 ## Release History
+* 1.0.2: Update description.
 * 1.0.1: Update documentation.
 * 1.0.0: Initial release.
  

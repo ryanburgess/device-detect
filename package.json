@@ -1,7 +1,7 @@
 {
   "name": "device-detect",
-  "version": "1.0.1",
-  "description": "JavaScript module to check if user agent to return what device a user is on.",
+  "version": "1.0.2",
+  "description": "JavaScript module to check if user agent to return the device and browser.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
