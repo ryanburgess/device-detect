@@ -1,0 +1,39 @@
+{
+  "name": "device-detect",
+  "version": "1.0.0",
+  "description": "JavaScript module to check if user agent to return what device a user is on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanburgess/device-detect.git"
+  },
+  "keywords": [
+    "javascript",
+    "module",
+    "browserify",
+    "device",
+    "detect",
+    "user",
+    "agent",
+    "browser"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jsonlint": "^1.0.4",
+    "grunt-newer": "^1.1.0",
+    "jshint-stylish": "^1.0.0"
+  },
+  "author": "Ryan Burgess <rburgess@evernote.com> (http://everernote.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanburgess/device-detect/issues"
+  },
+  "homepage": "https://github.com/ryanburgess/device-detect"
+}
