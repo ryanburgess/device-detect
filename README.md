@@ -14,7 +14,7 @@ npm install device-detect --save-dev
 var deviceDetect = require('device-detect');
 
 // return all device and browser object
-var deviceDetect = deviceDetect();
+deviceDetect = deviceDetect();
 
 // result example:
 /* {
@@ -24,6 +24,7 @@ var deviceDetect = deviceDetect();
 ```
  
 ## Release History
+* 1.0.3: Update documentation.
 * 1.0.2: Update description.
 * 1.0.1: Update documentation.
 * 1.0.0: Initial release.
