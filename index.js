@@ -1,4 +1,5 @@
 module.exports = function (){
+  'use strict';
   var ua  = window.navigator.userAgent,
     device,
     browser,
