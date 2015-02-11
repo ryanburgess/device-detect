@@ -1,6 +1,6 @@
 {
   "name": "device-detect",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "JavaScript module to check if user agent to return the device and browser.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,9 @@
     "detect",
     "user",
     "agent",
-    "browser"
+    "browser",
+    "node",
+    "nodejs"
   ],
   "dependencies": {
   },

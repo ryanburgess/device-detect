@@ -14,6 +14,8 @@ module.exports = function (){
     device = 'iPod';
   }else if(ua.match(/(BlackBerry|BB10)/)){
     device = 'BlackBerry';
+  }else if(ua.match(/(IEMobile)/)){
+    device = 'WindowsMobile';
   }else if(ua.match(/(Android)/)){
     device = 'Android';
   }else if(ua.match(/(Macintosh)/)){
