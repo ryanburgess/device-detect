@@ -11,16 +11,19 @@ npm install device-detect --save-dev
 ## Use
 
 ```js
-var deviceDetect = require('device-detect');
+var deviceDetect = require('device-detect')();
 
 // return all device and browser object
-deviceDetect = deviceDetect();
+console.log(deviceDetect);
 
 // result example:
 /* {
   "device":"Macintosh",
   "browser":"Chrome"
 } */
+
+console.log(deviceDetect.device); // returns Macintosh
+console.log(deviceDetect.browser); // returns Chrome
 ```
  
 ## Release History
