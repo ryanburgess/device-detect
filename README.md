@@ -25,8 +25,27 @@ console.log(deviceDetect);
 console.log(deviceDetect.device); // returns Macintosh
 console.log(deviceDetect.browser); // returns Chrome
 ```
+
+## Supported
+Devices: 
+- iPhone
+- iPad
+- iPod
+- Blackberry
+- WindowsMobile
+- Android
+- Macintosh
+- Windows
+
+Browsers: 
+- Chrome
+- Opera
+- Firefox
+- IE
+- Safari
  
 ## Release History
+* 1.0.5: Update documentation.
 * 1.0.4: Add support for Windows Mobile.
 * 1.0.3: Update documentation.
 * 1.0.2: Update description.
