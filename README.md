@@ -36,6 +36,7 @@ Devices:
 - Android
 - Macintosh
 - Windows
+- Linux
 
 Browsers: 
 - Chrome
@@ -45,6 +46,7 @@ Browsers:
 - Safari
  
 ## Release History
+* 1.0.6: Add Linux detection.
 * 1.0.5: Update documentation.
 * 1.0.4: Add support for Windows Mobile.
 * 1.0.3: Update documentation.

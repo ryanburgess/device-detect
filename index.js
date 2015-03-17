@@ -22,6 +22,8 @@ module.exports = function (){
     device = 'Macintosh';
   }else if(ua.match(/(Windows)/)){
     device = 'Windows';
+  }else if(ua.match(/(Linux)/)){
+    device = 'Linux';
   }
 
   // get browser
