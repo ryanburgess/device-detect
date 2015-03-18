@@ -1,8 +1,8 @@
 'use strict';
-var test = require('ava');
+var test = require('tape');
 var deviceDetect = require('./');
 
-test(function (t) {
+test('check deviceDetect exists', function (t) {
   t.assert(deviceDetect !== undefined);
   t.end();
 });
