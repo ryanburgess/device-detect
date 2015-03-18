@@ -46,6 +46,7 @@ Browsers:
 - Safari
  
 ## Release History
+* 1.0.6: Add test.js.
 * 1.0.6: Add Linux detection.
 * 1.0.5: Update documentation.
 * 1.0.4: Add support for Windows Mobile.
